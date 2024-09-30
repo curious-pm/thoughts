@@ -1,10 +1,14 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Thoughts
+tagline: ...of a curious soul
+url: https://thoughts.curious.pm
 paginate: 1
 baseurl: ""
 permalink: pretty
+author: Ankit Aggarwal
+email: a@curious.pm
+github_username: curious-pm
+linkedin_username: curious-pm
 
 # Gems
 plugins:
@@ -33,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Ankit Aggarwal
+  url: https://linkedin.com/in/curious-pm
+  email: a@curious.pm
 
 # Custom vars
 version: 3.0.0
